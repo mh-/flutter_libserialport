@@ -14,7 +14,7 @@ dependencies:
   flutter:
     sdk: flutter
   libserialport:
-    git: https://github.com/AurelienBallier/libserialport.dart
+    git: https://github.com/mh-/libserialport.dart
 
 dev_dependencies:
   flutter_test:
